@@ -1,1 +1,2 @@
-# amogus
+# Amogus
+This is for Experimental Purpaces
